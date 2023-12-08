@@ -12,6 +12,6 @@
 - [Path finding Unity](https://github.com/shifatkhan/PathFinding-Unity): An interactive representation of Dijkstra and A* pathfinding
 - [Neural Network Classifier](https://github.com/shifatkhan/NeuralNetworkClassifiers): Simple python script for Machine Learning through given datasets
 - [E-commerce website](https://github.com/ArchambaultP/Comp354Website): Full-stack developped e-commerce website with a team of 10. Includes ads, accounts, managements, etc.
-
+- [Itch.io](https://shifatkhan.itch.io/)
 
 Feel free to contact me via email: shifatkhan6@gmail.com
