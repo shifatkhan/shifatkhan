@@ -1,4 +1,4 @@
-### Bonjour, I'm [Shifat](https://shifatkhan.github.io) 👋
+### Bonjour, I'm [Shifat (portfolio)](https://shifatkhan.github.io) 👋
 
 - 👷‍♂️ Working on a 3D game made in UE5
 - 📚 Currently learning AI and integrating it into game dev
